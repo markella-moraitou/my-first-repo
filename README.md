@@ -1,10 +1,10 @@
 ## Markella ##
 
-#Geography
+# Geography
 
 I am from **Greece**, but I currently live in **Sweden**
 
-#Hobbies
+# Hobbies
 
 - Latin dancing
 - Photography
